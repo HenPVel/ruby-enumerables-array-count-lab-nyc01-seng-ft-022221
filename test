@@ -6,4 +6,4 @@
 
 end
 
-return [1,2,3,4].count
+puts return [1,2,3,4].count
